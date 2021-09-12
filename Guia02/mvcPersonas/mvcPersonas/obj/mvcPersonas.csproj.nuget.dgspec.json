@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nathaly\\source\\repos\\mvcPersonas\\mvcPersonas\\mvcPersonas.csproj": {}
+    "C:\\Users\\Nathaly\\Documents\\Repos\\Proyectos DSE104\\Guia02\\mvcPersonas\\mvcPersonas\\mvcPersonas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nathaly\\source\\repos\\mvcPersonas\\mvcPersonas\\mvcPersonas.csproj": {
+    "C:\\Users\\Nathaly\\Documents\\Repos\\Proyectos DSE104\\Guia02\\mvcPersonas\\mvcPersonas\\mvcPersonas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nathaly\\source\\repos\\mvcPersonas\\mvcPersonas\\mvcPersonas.csproj",
+        "projectUniqueName": "C:\\Users\\Nathaly\\Documents\\Repos\\Proyectos DSE104\\Guia02\\mvcPersonas\\mvcPersonas\\mvcPersonas.csproj",
         "projectName": "mvcPersonas",
-        "projectPath": "C:\\Users\\Nathaly\\source\\repos\\mvcPersonas\\mvcPersonas\\mvcPersonas.csproj",
+        "projectPath": "C:\\Users\\Nathaly\\Documents\\Repos\\Proyectos DSE104\\Guia02\\mvcPersonas\\mvcPersonas\\mvcPersonas.csproj",
         "packagesPath": "C:\\Users\\Nathaly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nathaly\\source\\repos\\mvcPersonas\\mvcPersonas\\obj\\",
+        "outputPath": "C:\\Users\\Nathaly\\Documents\\Repos\\Proyectos DSE104\\Guia02\\mvcPersonas\\mvcPersonas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nathaly\\AppData\\Roaming\\NuGet\\NuGet.Config",

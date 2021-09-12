@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eJ8g2/RmtfP4jOEcaLQNU5qKTucMYW4g1gOTFUW/KfRaOIz6SrukZt7qHzRU6Muppbrapz2BdBwmkZPvDXvn8A==",
+  "dgSpecHash": "SrRTgr84iEgROoCzANPQwpKxO7XY1U5uNxYuxyJW5zzWMt3jwxv3EeNr03rlowN9AeC7lcycazOfMLFscaWcBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nathaly\\source\\repos\\mvcPersonas\\mvcPersonas\\mvcPersonas.csproj",
+  "projectFilePath": "C:\\Users\\Nathaly\\Documents\\Repos\\Proyectos DSE104\\Guia02\\mvcPersonas\\mvcPersonas\\mvcPersonas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nathaly\\.nuget\\packages\\entityframework\\6.3.0\\entityframework.6.3.0.nupkg.sha512",
     "C:\\Users\\Nathaly\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
